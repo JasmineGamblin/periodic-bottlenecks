@@ -1,7 +1,7 @@
 # periodic-bottlenecks
 
 
-In the paper 'Bottlenecks can constrain evolutionary paths' by Jasmine Gamblin, Sylvain Gandon, François Blanquart and Amaury Lambert, we present a model for populations undergoing periodic bottlenecks and show how demographic parameters affect which evolutionary paths are accessible to these populations.
+In the paper *'Bottlenecks can constrain evolutionary paths'* by Jasmine Gamblin, Sylvain Gandon, François Blanquart and Amaury Lambert, we present a model for populations undergoing periodic bottlenecks and show how demographic parameters affect which evolutionary paths are accessible to these populations.
 
 We used simulations to verify that our results derived for large population sizes and exponential growth between bottlenecks remain valid in slightly relaxed settings (i.e. finite population and/or density-dependent growth).
 
